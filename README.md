@@ -176,7 +176,7 @@ Dashboard components include:
 
 ### Dashboard Preview
 
-![Superstore Sales Dashboard](screenshots/dashboard.png)
+![Superstore Sales Dashboard](Superstore_Dashboard.png)
 
 ---
 
